@@ -582,6 +582,15 @@ body.nav-active { overflow: hidden; }
   flex-shrink: 0;
 }
 
+.about-banner{
+  padding-right: 20%;
+  /* padding-left: 40%; */
+  height: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
 
 
 
