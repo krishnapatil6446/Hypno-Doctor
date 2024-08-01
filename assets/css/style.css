@@ -770,6 +770,10 @@ body.nav-active { overflow: hidden; }
   margin-block-start: 8px;
   transition: var(--transition-1);
 }
+.footer-list{
+  display: flex;
+  justify-content: space-between;
+}
 
 .footer-link:is(:hover, :focus-visible) { color: var(--verdigris); }
 
